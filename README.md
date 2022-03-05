@@ -5,7 +5,7 @@
 
 <a href="https://github.com/wxpsjhhd"><img  src="https://github-readme-stats.vercel.app/api?username=wxpsjhhd&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Jacky's github stats" /></a><a href="https://github.com/wxpsjhhd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wxpsjhhd&layout=compact&theme=vue&hide_border=true" /></a>
 
-<a href="https://github.com/wxpsjhhd"><img src="https://stats.justsong.cn/api/zhihu?username=shi-jie-zhi-da-10-2"></a>![](https://github-readme-streak-stats.herokuapp.com/?user=wxpsjhhd&theme=vue)
+<a href="https://github.com/wxpsjhhd"><img align='center' src="https://github-readme-streak-stats.herokuapp.com/?user=wxpsjhhd&theme=vue"></a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=wxpsjhhd)
 ![](https://img.shields.io/badge/python-3.9-skyblue?style=for-the—badge&logo=python&logoColor=skyblue)
